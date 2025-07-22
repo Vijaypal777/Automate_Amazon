@@ -1,0 +1,34 @@
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+*.egg
+*.pyo
+*.pyd
+*.pdb
+*.log
+
+# Virtual environment
+venv/
+
+# Webdriver manager downloads
+~/.wdm/
+*.crdownload
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# IDEs
+.idea/
+*.iml
+
+# OS files
+.DS_Store
+Thumbs.db
+
+
+# Test reports (optional)
+reports/
